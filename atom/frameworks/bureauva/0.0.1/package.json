@@ -1,0 +1,6 @@
+{
+  "name": "maciejpaprocki",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
